@@ -40,13 +40,13 @@ The topics here are going to be taught over 50 academic hours.
 
 # Must read
 
-Laws to live by https://github.com/dwmkerr/hacker-laws 
-Twelve-Factor App https://12factor.net/
-Reactive Manifesto https://www.reactivemanifesto.org/
-An introduction to distributed systems https://github.com/aphyr/distsys-class
-REST API best practices https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
-How do I test https://blog.nelhage.com/2016/12/how-i-test/
-Build your own X https://github.com/danistefanovic/build-your-own-x
-Undervalued skill: Writing https://blog.pragmaticengineer.com/on-writing-well/
+Laws to live by https://github.com/dwmkerr/hacker-laws <br/>
+Twelve-Factor App https://12factor.net/ <br/>
+Reactive Manifesto https://www.reactivemanifesto.org/ <br/>
+An introduction to distributed systems https://github.com/aphyr/distsys-class <br/>
+REST API best practices https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api <br/>
+How do I test https://blog.nelhage.com/2016/12/how-i-test/ <br/>
+Build your own X https://github.com/danistefanovic/build-your-own-x <br/>
+Undervalued skill: Writing https://blog.pragmaticengineer.com/on-writing-well/ <br/>
 
 
