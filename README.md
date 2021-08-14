@@ -40,9 +40,10 @@ The topics here are going to be taught over 50 academic hours.
 
 # Must read
 
+Coding interviews https://github.com/jwasham/coding-interview-university <br/>
 Laws to live by https://github.com/dwmkerr/hacker-laws <br/>
 Twelve-Factor App https://12factor.net/ <br/>
-Reactive Manifesto https://www.reactivemanifesto.org/ <br/>
+Things every programmer should know https://github.com/mtdvio/every-programmer-should-know <br/>
 An introduction to distributed systems https://github.com/aphyr/distsys-class <br/>
 REST API best practices https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api <br/>
 How do I test https://blog.nelhage.com/2016/12/how-i-test/ <br/>
