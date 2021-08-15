@@ -1,7 +1,7 @@
 # softwareengineer
 This repository contains notes and programs generally not taught as part of Computer Science &amp; Information Technology curriculum. 
 
-The topics here are going to be taught over 50 academic hours. The topics covered here are aimed for a full stack developer. 
+The topics here are going to be taught over 50 academic hours. The topics covered here are aimed for a full stack developer. Majority of the examples demonstrated here are based on Python. 
 
 1. Basic programming
 2. Datastructure and Algorithms - Real time examples and visualisation
@@ -67,7 +67,7 @@ Presentation link: To be added <br/>
 Reference link: To be added <br/>
 
 ## Session III
-
+<br/>
 
 Thank you!
 
