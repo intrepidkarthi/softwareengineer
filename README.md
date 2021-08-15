@@ -30,13 +30,14 @@ The topics here are going to be taught over 50 academic hours.
 25. Building a ML model from scratch - Tensorflow example
 26. Transfer Learning & Deep Learning - Basic concepts
 27. Server architecture & system design - Building whatsapp/snapchat/instagram/facebook like architecture 
-28. Mobile app development - Android
-29. Build a complete mobile app - Build and deploy an app in playstore
-30. Game development - Blender/Unity 3D basics
-31. Blockchain & Cryptocurrency - Basics
-32. Metaverse - AR/VR/XR basics
-33. Software tools used at companies - Basics
-34. Q&A
+28. Software Testing and how to write automation testing
+29. Mobile app development - Android
+30. Build a complete mobile app - Build and deploy an app in playstore
+31. Game development - Blender/Unity 3D basics
+32. Blockchain & Cryptocurrency - Basics
+33. Metaverse - AR/VR/XR basics
+34. Software tools used at companies - Basics
+35. Q&A
 
 # Must read
 
