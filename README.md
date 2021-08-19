@@ -47,7 +47,6 @@ Twelve-Factor App https://12factor.net/ <br/>
 Full stack python https://www.fullstackpython.com/ <br/>
 Things every programmer should know https://github.com/mtdvio/every-programmer-should-know <br/>
 An introduction to distributed systems https://github.com/aphyr/distsys-class <br/>
-REST API best practices https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api <br/>
 How do I test https://blog.nelhage.com/2016/12/how-i-test/ <br/>
 Build your own X https://github.com/danistefanovic/build-your-own-x <br/>
 Undervalued skill: Writing https://blog.pragmaticengineer.com/on-writing-well/ <br/>
