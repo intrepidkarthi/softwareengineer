@@ -20,8 +20,7 @@ The topics here are going to be taught over 50 academic hours. The topics covere
 20. Building web apps - Flask + react.js demo app
 21. Q&A
 22. API integrations - Third party integrations - Twilio/Sendgrid
-23. Virtualisation of OS, network, storage
-24. Microservices, Containers, Serverless - Lambda, Docker & kubernetes
+23. Microservices, Containers, Serverless - Lambda, Docker & kubernetes
 25. DevOps & CI/CD - Ansible/Jenkins/Prometheus/Grafana
 27. Build an end-to-end app and deploy - vercel, heroku app deployment
 28. Q&A
@@ -146,7 +145,6 @@ Recordings link: To be added <br/>
 <br/>
 
 ## Session XI - 6th Nov 2021
-Virtualisation of OS, network, storage<br/>
 Microservices, Containers, Serverless - Lambda, Docker & kubernetes<br/>
 
 Presentation link: To be added <br/>
