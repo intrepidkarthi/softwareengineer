@@ -11,33 +11,36 @@ The topics here are going to be taught over 50 academic hours. The topics covere
 6. Relational & Non relational Databases - MySQL, MongoDB, Distributed DB basics with examples
 11. Web app frameworks - flask, django
 12. REST Apis - Building REST apis with flask
-13. App deployment & hosting - Heroku, AWS, Azure, GCP
-14. Web servers - Apache/nginx/ha proxy
-15. Web development basics - HTML/CSS/JS basics with examples
-16. Javascript frameworks - node/react
-17. Networking & Security - https/websocket/webrtc/cryptography
+13. Q&A
+14. App deployment & hosting - Heroku, AWS, Azure, GCP
+15. Web servers - Apache/nginx/ha proxy
+16. Web development basics - HTML/CSS/JS basics with examples
+17. Javascript frameworks - node/react
+18. Networking & Security - https/websocket/webrtc/cryptography
 20. Building web apps - Flask + react.js demo app
 21. Q&A
 22. API integrations - Third party integrations - Twilio/Sendgrid
 23. Microservices, Containers, Serverless - Lambda, Docker & kubernetes
 25. DevOps & CI/CD - Ansible/Jenkins/Prometheus/Grafana
 27. Build an end-to-end app and deploy - vercel, heroku app deployment
-28. Data science & visualization - Pandas, Scipy, Matplotlib basics with examples
-29. Research & Analysis on dataset - Demo application
-30. Basics of AI/ML - Pytorch/Tensorflow
-31. Building a ML model from scratch - Tensorflow example
-32. Transfer Learning & Deep Learning - Basic concepts
-33. Q&A
-34. Task queues - Kafka, RabbitMQ
-35. Server architecture & system design - Building whatsapp/snapchat/instagram/facebook like architecture 
-36. Software Testing and how to write automation testing
-37. Mobile app development - Android
-38. Build a complete mobile app - Build and deploy an app in playstore
-39. Game development - Blender/Unity 3D basics
-40. Blockchain & Cryptocurrency - Basics
-41. Metaverse - AR/VR/XR basics
-42. Software tools used at companies - Basics
-43. Q&A
+28. Q&A
+29. Data science & visualization - Pandas, Scipy, Matplotlib basics with examples
+30. Research & Analysis on dataset - Demo application
+31. Basics of AI/ML - Pytorch/Tensorflow
+32. Building a ML model from scratch - Tensorflow example
+33. Transfer Learning & Deep Learning - Basic concepts
+34. Q&A
+35. Task queues - Kafka, RabbitMQ
+36. Server architecture & system design - Building whatsapp/snapchat/instagram/facebook like architecture 
+37. Software Testing and how to write automation testing
+38. Mobile app development - Android
+39. Build a complete mobile app - Build and deploy an app in playstore
+40. Q&A
+41. Game development - Blender/Unity 3D basics
+42. Blockchain & Cryptocurrency - Basics
+43. Metaverse - AR/VR/XR basics
+44. Software tools used at companies - Basics
+45. Q&A
 
 # Must read
 
