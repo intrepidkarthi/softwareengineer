@@ -63,16 +63,17 @@ Presentation link: To be added <br/>
 Reference link: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 Recordings link: To be added <br/>
 
-## Session II - 4th Sep 2021
+## Session II - 11th Sep 2021
 Basics on Java, Python & Go languages with specific examples explaining how are they used in real applications. 
 
 Presentation link: To be added <br/>
 Reference link: To be added <br/>
 Recordings link: To be added <br/>
 
-## Session III - 11th Sep 2021
+## Session III - 17th Sep 2021
 TextEditors & Shell - VSCode, Vim, nano. <br/>
 Pick and use a texteditor of your choice - VSCode, Sublimetext, Pycharm, etc., <br/>
+Basics on using Bash scripts <br/>
 Explaining how to use Shell efficiently with screen multiplexers.  <br/>
 
 Presentation link: To be added <br/>
@@ -80,7 +81,7 @@ Reference link: To be added <br/>
 Recordings link: To be added <br/>
 <br/>
 
-## Session IV - 18th Sep 2021
+## Session IV - 25th Sep 2021
 Source control - How to use Git <br/>
 Git becomes the de-facto standard for Source code management. <br/>
 Explaining how to use them effectively when you work in a collaborative environment <br/>
@@ -90,7 +91,7 @@ Reference link: To be added <br/>
 Recordings link: To be added <br/>
 <br/>
 
-## Session V - 25th Sep 2021
+## Session V - 1st Oct 2021
 Relational & Non relational Databases - MySQL, MongoDB, Distributed DB basics with examples <br/>
 
 Presentation link: To be added <br/>
@@ -98,16 +99,9 @@ Reference link: To be added <br/>
 Recordings link: To be added <br/>
 <br/>
 
-## Session VI - 1st Oct 2021
+## Session VI - 9th Oct 2021
 Web app frameworks - flask, django <br/>
 Building basic applications using Flask<br/>
-
-Presentation link: To be added <br/>
-Reference link: To be added <br/>
-Recordings link: To be added <br/>
-<br/>
-
-## Session VII - 9th Oct 2021
 REST Apis - Building REST apis with flask <br/>
 Understanding the basics of REST Apis<br/>
 
@@ -116,16 +110,9 @@ Reference link: To be added <br/>
 Recordings link: To be added <br/>
 <br/>
 
-## Session VIII - 16th Oct 2021
+## Session VII - 16th Oct 2021
 App deployment & hosting - Heroku, AWS, Azure, GCP<br/>
 Web servers - Apache/nginx/ha proxy<br/>
-
-Presentation link: To be added <br/>
-Reference link: To be added <br/>
-Recordings link: To be added <br/>
-<br/>
-
-## Session IX - 23rd Oct 2021
 Web development basics - HTML/CSS/JS basics with examples<br/>
 Javascript frameworks - node/react<br/>
 
@@ -134,7 +121,7 @@ Reference link: To be added <br/>
 Recordings link: To be added <br/>
 <br/>
 
-## Session X - 30th Oct 2021
+## Session VIII - 23rd Oct 2021
 Networking & Security - https/websocket/webrtc/cryptography<br/>
 Building web apps - Flask + react.js demo app<br/>
 API integrations - Third party integrations - Twilio/Sendgrid<br/>
@@ -144,22 +131,23 @@ Reference link: To be added <br/>
 Recordings link: To be added <br/>
 <br/>
 
-## Session XI - 6th Nov 2021
+## Session IX - 30th Oct 2021
 Microservices, Containers, Serverless - Lambda, Docker & kubernetes<br/>
+DevOps & CI/CD - Ansible/Jenkins/Prometheus/Grafana<br/>
 
 Presentation link: To be added <br/>
 Reference link: To be added <br/>
 Recordings link: To be added <br/>
 <br/>
 
-## Session XII - 13th Nov 2021
-DevOps & CI/CD - Ansible/Jenkins/Prometheus/Grafana<br/>
+## Session X - 3rd Nov 2021
 Build an end-to-end app and deploy - vercel, heroku app deployment<br/>
 
 Presentation link: To be added <br/>
 Reference link: To be added <br/>
 Recordings link: To be added <br/>
 <br/>
+
 
 
 Thank you!
