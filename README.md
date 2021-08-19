@@ -20,7 +20,8 @@ The topics here are going to be taught over 50 academic hours. The topics covere
 20. Building web apps - Flask + react.js demo app
 21. Q&A
 22. API integrations - Third party integrations - Twilio/Sendgrid
-23. Microservices, Containers, Serverless - Lambda, Docker & kubernetes
+23. Virtualisation of OS, network, storage
+24. Microservices, Containers, Serverless - Lambda, Docker & kubernetes
 25. DevOps & CI/CD - Ansible/Jenkins/Prometheus/Grafana
 27. Build an end-to-end app and deploy - vercel, heroku app deployment
 28. Q&A
@@ -56,27 +57,112 @@ Undervalued skill: Writing https://blog.pragmaticengineer.com/on-writing-well/ <
 
 
 
-## Session I
+## Session I - 28th Aug 2021
 In the first session, we will discuss the basics of programming and what are all the constructs that are common across languages and the common complexities. We will go through stack, queues, recursion, trees, hashtables, sorting, graphs with visualisation along with real life examples on how do they work internally. 
 
 Presentation link: To be added <br/>
 Reference link: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 Recordings link: To be added <br/>
 
-## Session II
-Basic language constructs on Java, Python & Go with language specific examples
+## Session II - 4th Sep 2021
+Basics on Java, Python & Go languages with specific examples explaining how are they used in real applications. 
 
 Presentation link: To be added <br/>
 Reference link: To be added <br/>
 Recordings link: To be added <br/>
 
-## Session III
-Basics on Java, Python & Go languages with demo programs explaining how are they used in real life applications. 
+## Session III - 11th Sep 2021
+TextEditors & Shell - VSCode, Vim, nano. <br/>
+Pick and use a texteditor of your choice - VSCode, Sublimetext, Pycharm, etc., <br/>
+Explaining how to use Shell efficiently with screen multiplexers.  <br/>
 
 Presentation link: To be added <br/>
 Reference link: To be added <br/>
 Recordings link: To be added <br/>
 <br/>
+
+## Session IV - 18th Sep 2021
+Source control - How to use Git <br/>
+Git becomes the de-facto standard for Source code management. <br/>
+Explaining how to use them effectively when you work in a collaborative environment <br/>
+
+Presentation link: To be added <br/>
+Reference link: To be added <br/>
+Recordings link: To be added <br/>
+<br/>
+
+## Session V - 25th Sep 2021
+Relational & Non relational Databases - MySQL, MongoDB, Distributed DB basics with examples <br/>
+
+Presentation link: To be added <br/>
+Reference link: To be added <br/>
+Recordings link: To be added <br/>
+<br/>
+
+## Session VI - 1st Oct 2021
+Web app frameworks - flask, django <br/>
+Building basic applications using Flask<br/>
+
+Presentation link: To be added <br/>
+Reference link: To be added <br/>
+Recordings link: To be added <br/>
+<br/>
+
+## Session VII - 9th Oct 2021
+REST Apis - Building REST apis with flask <br/>
+Understanding the basics of REST Apis<br/>
+
+Presentation link: To be added <br/>
+Reference link: To be added <br/>
+Recordings link: To be added <br/>
+<br/>
+
+## Session VIII - 16th Oct 2021
+App deployment & hosting - Heroku, AWS, Azure, GCP<br/>
+Web servers - Apache/nginx/ha proxy<br/>
+
+Presentation link: To be added <br/>
+Reference link: To be added <br/>
+Recordings link: To be added <br/>
+<br/>
+
+## Session IX - 23rd Oct 2021
+Web development basics - HTML/CSS/JS basics with examples<br/>
+Javascript frameworks - node/react<br/>
+
+Presentation link: To be added <br/>
+Reference link: To be added <br/>
+Recordings link: To be added <br/>
+<br/>
+
+## Session X - 30th Oct 2021
+Networking & Security - https/websocket/webrtc/cryptography<br/>
+Building web apps - Flask + react.js demo app<br/>
+API integrations - Third party integrations - Twilio/Sendgrid<br/>
+
+Presentation link: To be added <br/>
+Reference link: To be added <br/>
+Recordings link: To be added <br/>
+<br/>
+
+## Session XI - 6th Nov 2021
+Virtualisation of OS, network, storage<br/>
+Microservices, Containers, Serverless - Lambda, Docker & kubernetes<br/>
+
+Presentation link: To be added <br/>
+Reference link: To be added <br/>
+Recordings link: To be added <br/>
+<br/>
+
+## Session XII - 13th Nov 2021
+DevOps & CI/CD - Ansible/Jenkins/Prometheus/Grafana<br/>
+Build an end-to-end app and deploy - vercel, heroku app deployment<br/>
+
+Presentation link: To be added <br/>
+Reference link: To be added <br/>
+Recordings link: To be added <br/>
+<br/>
+
 
 Thank you!
 
