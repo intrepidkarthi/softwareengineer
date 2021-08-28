@@ -59,8 +59,8 @@ Undervalued skill: Writing https://blog.pragmaticengineer.com/on-writing-well/ <
 ## Session I - 28th Aug 2021
 In the first session, we will discuss the basics of programming and what are all the constructs that are common across languages and the common complexities. We will go through stack, queues, recursion, trees, hashtables, sorting, graphs with visualisation along with real life examples on how do they work internally. 
 
-Presentation link: To be added <br/>
-Reference link: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+Presentation link: https://jamboard.google.com/d/1vGsFzVVWzTh9HcsvD1cXFEb14sRN3rXKfbs02y-6Gug/viewer?f=7 <br/>
+Reference link: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html <br/>
 Recordings link: To be added <br/>
 
 ## Session II - 11th Sep 2021
