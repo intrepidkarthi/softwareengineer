@@ -61,7 +61,7 @@ In the first session, we will discuss the basics of programming and what are all
 
 Presentation link: https://jamboard.google.com/d/1vGsFzVVWzTh9HcsvD1cXFEb14sRN3rXKfbs02y-6Gug/viewer?f=7 <br/>
 Reference link: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html <br/>
-Recordings link: To be added <br/>
+Recordings link: https://drive.google.com/file/d/12iLRgQqTFr-Vto_jVtE9gDTWBR2UHXqN/view <br/>
 
 ## Session II - 11th Sep 2021
 Basics on Java, Python & Go languages with specific examples explaining how are they used in real applications. 
