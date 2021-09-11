@@ -62,13 +62,16 @@ In the first session, we will discuss the basics of programming and what are all
 Presentation link: The file has been placed in the session I folder in the repo. https://jamboard.google.com/d/1vGsFzVVWzTh9HcsvD1cXFEb14sRN3rXKfbs02y-6Gug/viewer?f=7 <br/>
 Reference link: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html <br/>
 Recordings link: https://drive.google.com/file/d/12iLRgQqTFr-Vto_jVtE9gDTWBR2UHXqN/view <br/>
+https://www.youtube.com/watch?v=k6D_6T7BY3I (Youtube live stream) <br/>
 
 ## Session II - 11th Sep 2021
 Basics on Java, Python & Go languages with specific examples explaining how are they used in real applications. 
 
-Presentation link: To be added <br/>
+Presentation link: Pushed into Session II folder <br/>
 Reference link: https://education.github.com/ <br/>
-Recordings link: To be added <br/>
+https://www.programiz.com/python-programming/object-oriented-programming <br/>
+https://www.geeksforgeeks.org/python-oops-concepts/ <br/>
+Recordings link: https://youtu.be/Q9SXTy7Vtlw (Live stream link) <br/>
 
 ## Session III - 17th Sep 2021
 TextEditors & Shell - VSCode, Vim, nano. <br/>
