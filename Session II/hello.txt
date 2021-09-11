@@ -1,0 +1,49 @@
+Basics of a language 
+
+IDE
+Datatypes
+Variables
+Keywords
+Logical & arithmetic operations
+loops & nested loops
+functions
+I/O operations
+
+basic 
+
+10 cls
+20 declare a Variables
+30 assigna variable 
+
+
+Procedural programming 
+Functional programming
+Object Oriented programming 
+
+
+OOps concepts:
+Classes 
+Objects 
+Methods
+encapsulation
+inheritance 
+polymorphism 
+
+
+
+
+Classes & Objects 
+
+
+class - blueprint of an object 
+
+Car as class 
+bmw x6 is an object the class Car 
+
+Object 
+instantiation of your class 
+obj = Car()
+
+
+
+
