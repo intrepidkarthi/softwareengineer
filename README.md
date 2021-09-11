@@ -59,7 +59,7 @@ Undervalued skill: Writing https://blog.pragmaticengineer.com/on-writing-well/ <
 ## Session I - 28th Aug 2021
 In the first session, we will discuss the basics of programming and what are all the constructs that are common across languages and the common complexities. We will go through stack, queues, recursion, trees, hashtables, sorting, graphs with visualisation along with real life examples on how do they work internally. 
 
-Presentation link: https://jamboard.google.com/d/1vGsFzVVWzTh9HcsvD1cXFEb14sRN3rXKfbs02y-6Gug/viewer?f=7 <br/>
+Presentation link: The file has been placed in the session I folder in the repo. https://jamboard.google.com/d/1vGsFzVVWzTh9HcsvD1cXFEb14sRN3rXKfbs02y-6Gug/viewer?f=7 <br/>
 Reference link: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html <br/>
 Recordings link: https://drive.google.com/file/d/12iLRgQqTFr-Vto_jVtE9gDTWBR2UHXqN/view <br/>
 
@@ -67,7 +67,7 @@ Recordings link: https://drive.google.com/file/d/12iLRgQqTFr-Vto_jVtE9gDTWBR2UHX
 Basics on Java, Python & Go languages with specific examples explaining how are they used in real applications. 
 
 Presentation link: To be added <br/>
-Reference link: To be added <br/>
+Reference link: https://education.github.com/ <br/>
 Recordings link: To be added <br/>
 
 ## Session III - 17th Sep 2021
