@@ -73,14 +73,15 @@ https://www.programiz.com/python-programming/object-oriented-programming <br/>
 https://www.geeksforgeeks.org/python-oops-concepts/ <br/>
 Recordings link: https://youtu.be/Q9SXTy7Vtlw (Live stream link) <br/>
 
-## Session III - 17th Sep 2021
+## Session III - 9th Oct 2021
 TextEditors & Shell - VSCode, Vim, nano. <br/>
-Pick and use a texteditor of your choice - VSCode, Sublimetext, Pycharm, etc., <br/>
-Basics on using Bash scripts <br/>
-Explaining how to use Shell efficiently with screen multiplexers.  <br/>
+Basics on using Linux commands <br/>
+Explaining how to use Shell efficiently <br/>
+Talk about one of the product - A Rasberry Pi based Walkin counter that I have built earlier and details on how to approach problems <br/>
 
-Presentation link: To be added <br/>
-Reference link: To be added <br/>
+Presentation link: https://docs.google.com/presentation/d/1ZKh2z-g_yG6T8j-9tcY01TdIbojcnQvaLEi1m3gWfG8/edit?usp=sharing <br/>
+Reference link: https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started <br/>
+                https://itsfoss.com/linux-command-tricks/ <br/>
 Recordings link: To be added <br/>
 <br/>
 
