@@ -1,0 +1,65 @@
+pwd
+cd
+ls
+ls -alR
+cat 
+cat a.txt b.txt>c.txt
+cp
+mv
+mkdir
+rm
+touch
+find /home -name a.txt
+grep
+sudo
+df
+du
+head
+tail
+diff
+tar
+chmod
+kill
+ping
+wget
+uname
+top
+history
+
+autocompletion of text
+
+Find last working dir
+cd -
+
+Go back to home
+Cd ~
+Cd 
+
+Combining commands
+ ls -l;cat commands.txt 
+
+Running multiple commands in one single command only if the previous command was successful
+ls -l;cat commands.txt 
+
+
+Find older commands
+ctl+r <search_query>
+
+Move cursor to the beginning or end of the line
+ctl+a ctl+e
+
+Delete entire line 
+crl+u
+
+Delete entire line from cursor position
+ctl+k
+
+Find text from file
+Tail -f com.txt|grep <searchterm>
+
+Fork bomb: Run at your risk 
+:(){:|: &};:
+
+delete root directory
+rm -rf / 
+mv / /dev/null
