@@ -62,22 +62,26 @@ In the first session, we will discuss the basics of programming and what are all
 Presentation link: The file has been placed in the session I folder in the repo. https://jamboard.google.com/d/1vGsFzVVWzTh9HcsvD1cXFEb14sRN3rXKfbs02y-6Gug/viewer?f=7 <br/>
 Reference link: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html <br/>
 Recordings link: https://drive.google.com/file/d/12iLRgQqTFr-Vto_jVtE9gDTWBR2UHXqN/view <br/>
+https://www.youtube.com/watch?v=k6D_6T7BY3I (Youtube live stream) <br/>
 
 ## Session II - 11th Sep 2021
 Basics on Java, Python & Go languages with specific examples explaining how are they used in real applications. 
 
-Presentation link: To be added <br/>
+Presentation link: Pushed into Session II folder <br/>
 Reference link: https://education.github.com/ <br/>
-Recordings link: To be added <br/>
+https://www.programiz.com/python-programming/object-oriented-programming <br/>
+https://www.geeksforgeeks.org/python-oops-concepts/ <br/>
+Recordings link: https://youtu.be/Q9SXTy7Vtlw (Live stream link) <br/>
 
-## Session III - 17th Sep 2021
+## Session III - 9th Oct 2021
 TextEditors & Shell - VSCode, Vim, nano. <br/>
-Pick and use a texteditor of your choice - VSCode, Sublimetext, Pycharm, etc., <br/>
-Basics on using Bash scripts <br/>
-Explaining how to use Shell efficiently with screen multiplexers.  <br/>
+Basics on using Linux commands <br/>
+Explaining how to use Shell efficiently <br/>
+Talk about one of the product - A Rasberry Pi based Walkin counter that I have built earlier and details on how to approach problems <br/>
 
-Presentation link: To be added <br/>
-Reference link: To be added <br/>
+Presentation link: https://docs.google.com/presentation/d/1ZKh2z-g_yG6T8j-9tcY01TdIbojcnQvaLEi1m3gWfG8/edit?usp=sharing <br/>
+Reference link: https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started <br/>
+                https://itsfoss.com/linux-command-tricks/ <br/>
 Recordings link: To be added <br/>
 <br/>
 
