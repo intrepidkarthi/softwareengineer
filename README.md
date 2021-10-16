@@ -82,6 +82,7 @@ Talk about one of the product - A Rasberry Pi based Walkin counter that I have b
 Presentation link: https://docs.google.com/presentation/d/1ZKh2z-g_yG6T8j-9tcY01TdIbojcnQvaLEi1m3gWfG8/edit?usp=sharing <br/>
 Reference link: https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started <br/>
                 https://itsfoss.com/linux-command-tricks/ <br/>
+                https://www.youtube.com/watch?v=Z56Jmr9Z34Q&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J&index=3&ab_channel=MissingSemester <br/>
 Recordings link: To be added <br/>
 <br/>
 
