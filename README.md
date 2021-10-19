@@ -71,6 +71,7 @@ Presentation link: Pushed into Session II folder <br/>
 Reference link: https://education.github.com/ <br/>
 https://www.programiz.com/python-programming/object-oriented-programming <br/>
 https://www.geeksforgeeks.org/python-oops-concepts/ <br/>
+https://thenewstack.io/which-programming-languages-use-the-least-electricity/ <br/>
 Recordings link: https://youtu.be/Q9SXTy7Vtlw (Live stream link) <br/>
 
 ## Session III - 9th Oct 2021
